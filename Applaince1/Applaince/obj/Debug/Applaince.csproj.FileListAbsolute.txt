@@ -1,0 +1,220 @@
+C:\project\Applaince\Applaince\bin\Applaince.dll.config
+C:\project\Applaince\Applaince\bin\Applaince.dll
+C:\project\Applaince\Applaince\bin\Applaince.pdb
+C:\project\Applaince\Applaince\bin\Antlr3.Runtime.dll
+C:\project\Applaince\Applaince\bin\EntityFramework.dll
+C:\project\Applaince\Applaince\bin\EntityFramework.SqlServer.dll
+C:\project\Applaince\Applaince\bin\Microsoft.AspNet.Identity.Core.dll
+C:\project\Applaince\Applaince\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\project\Applaince\Applaince\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\project\Applaince\Applaince\bin\Microsoft.Owin.dll
+C:\project\Applaince\Applaince\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\project\Applaince\Applaince\bin\Microsoft.Owin.Security.Cookies.dll
+C:\project\Applaince\Applaince\bin\Microsoft.Owin.Security.dll
+C:\project\Applaince\Applaince\bin\Microsoft.Owin.Security.Facebook.dll
+C:\project\Applaince\Applaince\bin\Microsoft.Owin.Security.Google.dll
+C:\project\Applaince\Applaince\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\project\Applaince\Applaince\bin\Microsoft.Owin.Security.OAuth.dll
+C:\project\Applaince\Applaince\bin\Microsoft.Owin.Security.Twitter.dll
+C:\project\Applaince\Applaince\bin\Microsoft.Web.Infrastructure.dll
+C:\project\Applaince\Applaince\bin\Newtonsoft.Json.dll
+C:\project\Applaince\Applaince\bin\Owin.dll
+C:\project\Applaince\Applaince\bin\System.Web.Helpers.dll
+C:\project\Applaince\Applaince\bin\System.Web.Mvc.dll
+C:\project\Applaince\Applaince\bin\System.Web.Optimization.dll
+C:\project\Applaince\Applaince\bin\System.Web.Razor.dll
+C:\project\Applaince\Applaince\bin\System.Web.WebPages.Deployment.dll
+C:\project\Applaince\Applaince\bin\System.Web.WebPages.dll
+C:\project\Applaince\Applaince\bin\System.Web.WebPages.Razor.dll
+C:\project\Applaince\Applaince\bin\WebGrease.dll
+C:\project\Applaince\Applaince\bin\System.Web.Helpers.xml
+C:\project\Applaince\Applaince\bin\System.Web.Mvc.xml
+C:\project\Applaince\Applaince\bin\System.Web.Optimization.xml
+C:\project\Applaince\Applaince\bin\System.Web.Razor.xml
+C:\project\Applaince\Applaince\bin\System.Web.WebPages.xml
+C:\project\Applaince\Applaince\bin\System.Web.WebPages.Deployment.xml
+C:\project\Applaince\Applaince\bin\System.Web.WebPages.Razor.xml
+C:\project\Applaince\Applaince\bin\Newtonsoft.Json.xml
+C:\project\Applaince\Applaince\bin\Antlr3.Runtime.pdb
+C:\project\Applaince\Applaince\bin\EntityFramework.xml
+C:\project\Applaince\Applaince\bin\EntityFramework.SqlServer.xml
+C:\project\Applaince\Applaince\bin\Microsoft.AspNet.Identity.Core.xml
+C:\project\Applaince\Applaince\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\project\Applaince\Applaince\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\project\Applaince\Applaince\bin\Microsoft.Owin.xml
+C:\project\Applaince\Applaince\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\project\Applaince\Applaince\bin\Microsoft.Owin.Security.xml
+C:\project\Applaince\Applaince\bin\Microsoft.Owin.Security.Facebook.xml
+C:\project\Applaince\Applaince\bin\Microsoft.Owin.Security.Cookies.xml
+C:\project\Applaince\Applaince\bin\Microsoft.Owin.Security.OAuth.xml
+C:\project\Applaince\Applaince\bin\Microsoft.Owin.Security.Google.xml
+C:\project\Applaince\Applaince\bin\Microsoft.Owin.Security.Twitter.xml
+C:\project\Applaince\Applaince\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\project\Applaince\Applaince\obj\Debug\Applaince.csprojResolveAssemblyReference.cache
+C:\project\Applaince\Applaince\obj\Debug\Applaince.dll
+C:\project\Applaince\Applaince\obj\Debug\Applaince.pdb
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\Applaince.dll.config
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\Applaince.dll
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\Applaince.pdb
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\Antlr3.Runtime.dll
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\EntityFramework.dll
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\EntityFramework.SqlServer.dll
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\Microsoft.Owin.dll
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\Microsoft.Owin.Security.dll
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\Newtonsoft.Json.dll
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\Owin.dll
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\System.Web.Helpers.dll
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\System.Web.Mvc.dll
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\System.Web.Optimization.dll
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\System.Web.Razor.dll
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\System.Web.WebPages.dll
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\WebGrease.dll
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\System.Web.Helpers.xml
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\System.Web.Mvc.xml
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\System.Web.Optimization.xml
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\System.Web.Razor.xml
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\System.Web.WebPages.xml
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\Newtonsoft.Json.xml
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\Antlr3.Runtime.pdb
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\EntityFramework.xml
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\EntityFramework.SqlServer.xml
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\Microsoft.Owin.xml
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\Microsoft.Owin.Security.xml
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\obj\Debug\Applaince.csprojResolveAssemblyReference.cache
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\obj\Debug\Applaince.dll
+C:\Users\Ali Azeem\Desktop\Applaince\Applaince\obj\Debug\Applaince.pdb
+C:\project\Applaince\Applaince1\Applaince\bin\Applaince.dll.config
+C:\project\Applaince\Applaince1\Applaince\bin\Applaince.dll
+C:\project\Applaince\Applaince1\Applaince\bin\Applaince.pdb
+C:\project\Applaince\Applaince1\Applaince\bin\Antlr3.Runtime.dll
+C:\project\Applaince\Applaince1\Applaince\bin\EntityFramework.dll
+C:\project\Applaince\Applaince1\Applaince\bin\EntityFramework.SqlServer.dll
+C:\project\Applaince\Applaince1\Applaince\bin\Microsoft.AspNet.Identity.Core.dll
+C:\project\Applaince\Applaince1\Applaince\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\project\Applaince\Applaince1\Applaince\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\project\Applaince\Applaince1\Applaince\bin\Microsoft.Owin.dll
+C:\project\Applaince\Applaince1\Applaince\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\project\Applaince\Applaince1\Applaince\bin\Microsoft.Owin.Security.Cookies.dll
+C:\project\Applaince\Applaince1\Applaince\bin\Microsoft.Owin.Security.dll
+C:\project\Applaince\Applaince1\Applaince\bin\Microsoft.Owin.Security.Facebook.dll
+C:\project\Applaince\Applaince1\Applaince\bin\Microsoft.Owin.Security.Google.dll
+C:\project\Applaince\Applaince1\Applaince\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\project\Applaince\Applaince1\Applaince\bin\Microsoft.Owin.Security.OAuth.dll
+C:\project\Applaince\Applaince1\Applaince\bin\Microsoft.Owin.Security.Twitter.dll
+C:\project\Applaince\Applaince1\Applaince\bin\Microsoft.Web.Infrastructure.dll
+C:\project\Applaince\Applaince1\Applaince\bin\Newtonsoft.Json.dll
+C:\project\Applaince\Applaince1\Applaince\bin\Owin.dll
+C:\project\Applaince\Applaince1\Applaince\bin\System.Web.Helpers.dll
+C:\project\Applaince\Applaince1\Applaince\bin\System.Web.Mvc.dll
+C:\project\Applaince\Applaince1\Applaince\bin\System.Web.Optimization.dll
+C:\project\Applaince\Applaince1\Applaince\bin\System.Web.Razor.dll
+C:\project\Applaince\Applaince1\Applaince\bin\System.Web.WebPages.Deployment.dll
+C:\project\Applaince\Applaince1\Applaince\bin\System.Web.WebPages.dll
+C:\project\Applaince\Applaince1\Applaince\bin\System.Web.WebPages.Razor.dll
+C:\project\Applaince\Applaince1\Applaince\bin\WebGrease.dll
+C:\project\Applaince\Applaince1\Applaince\bin\System.Web.Helpers.xml
+C:\project\Applaince\Applaince1\Applaince\bin\System.Web.Mvc.xml
+C:\project\Applaince\Applaince1\Applaince\bin\System.Web.Optimization.xml
+C:\project\Applaince\Applaince1\Applaince\bin\System.Web.Razor.xml
+C:\project\Applaince\Applaince1\Applaince\bin\System.Web.WebPages.xml
+C:\project\Applaince\Applaince1\Applaince\bin\System.Web.WebPages.Deployment.xml
+C:\project\Applaince\Applaince1\Applaince\bin\System.Web.WebPages.Razor.xml
+C:\project\Applaince\Applaince1\Applaince\bin\Newtonsoft.Json.xml
+C:\project\Applaince\Applaince1\Applaince\bin\Antlr3.Runtime.pdb
+C:\project\Applaince\Applaince1\Applaince\bin\EntityFramework.xml
+C:\project\Applaince\Applaince1\Applaince\bin\EntityFramework.SqlServer.xml
+C:\project\Applaince\Applaince1\Applaince\bin\Microsoft.AspNet.Identity.Core.xml
+C:\project\Applaince\Applaince1\Applaince\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\project\Applaince\Applaince1\Applaince\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\project\Applaince\Applaince1\Applaince\bin\Microsoft.Owin.xml
+C:\project\Applaince\Applaince1\Applaince\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\project\Applaince\Applaince1\Applaince\bin\Microsoft.Owin.Security.xml
+C:\project\Applaince\Applaince1\Applaince\bin\Microsoft.Owin.Security.Facebook.xml
+C:\project\Applaince\Applaince1\Applaince\bin\Microsoft.Owin.Security.Cookies.xml
+C:\project\Applaince\Applaince1\Applaince\bin\Microsoft.Owin.Security.OAuth.xml
+C:\project\Applaince\Applaince1\Applaince\bin\Microsoft.Owin.Security.Google.xml
+C:\project\Applaince\Applaince1\Applaince\bin\Microsoft.Owin.Security.Twitter.xml
+C:\project\Applaince\Applaince1\Applaince\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\project\Applaince\Applaince1\Applaince\obj\Debug\Applaince.csprojResolveAssemblyReference.cache
+C:\project\Applaince\Applaince1\Applaince\obj\Debug\Applaince.dll
+C:\project\Applaince\Applaince1\Applaince\obj\Debug\Applaince.pdb
+C:\project\Applaince1\Applaince\bin\Applaince.dll.config
+C:\project\Applaince1\Applaince\bin\Applaince.dll
+C:\project\Applaince1\Applaince\bin\Applaince.pdb
+C:\project\Applaince1\Applaince\bin\Antlr3.Runtime.dll
+C:\project\Applaince1\Applaince\bin\EntityFramework.dll
+C:\project\Applaince1\Applaince\bin\EntityFramework.SqlServer.dll
+C:\project\Applaince1\Applaince\bin\Microsoft.AspNet.Identity.Core.dll
+C:\project\Applaince1\Applaince\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\project\Applaince1\Applaince\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\project\Applaince1\Applaince\bin\Microsoft.Owin.dll
+C:\project\Applaince1\Applaince\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\project\Applaince1\Applaince\bin\Microsoft.Owin.Security.Cookies.dll
+C:\project\Applaince1\Applaince\bin\Microsoft.Owin.Security.dll
+C:\project\Applaince1\Applaince\bin\Microsoft.Owin.Security.Facebook.dll
+C:\project\Applaince1\Applaince\bin\Microsoft.Owin.Security.Google.dll
+C:\project\Applaince1\Applaince\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\project\Applaince1\Applaince\bin\Microsoft.Owin.Security.OAuth.dll
+C:\project\Applaince1\Applaince\bin\Microsoft.Owin.Security.Twitter.dll
+C:\project\Applaince1\Applaince\bin\Microsoft.Web.Infrastructure.dll
+C:\project\Applaince1\Applaince\bin\Newtonsoft.Json.dll
+C:\project\Applaince1\Applaince\bin\Owin.dll
+C:\project\Applaince1\Applaince\bin\System.Web.Helpers.dll
+C:\project\Applaince1\Applaince\bin\System.Web.Mvc.dll
+C:\project\Applaince1\Applaince\bin\System.Web.Optimization.dll
+C:\project\Applaince1\Applaince\bin\System.Web.Razor.dll
+C:\project\Applaince1\Applaince\bin\System.Web.WebPages.Deployment.dll
+C:\project\Applaince1\Applaince\bin\System.Web.WebPages.dll
+C:\project\Applaince1\Applaince\bin\System.Web.WebPages.Razor.dll
+C:\project\Applaince1\Applaince\bin\WebGrease.dll
+C:\project\Applaince1\Applaince\bin\System.Web.Helpers.xml
+C:\project\Applaince1\Applaince\bin\System.Web.Mvc.xml
+C:\project\Applaince1\Applaince\bin\System.Web.Optimization.xml
+C:\project\Applaince1\Applaince\bin\System.Web.Razor.xml
+C:\project\Applaince1\Applaince\bin\System.Web.WebPages.xml
+C:\project\Applaince1\Applaince\bin\System.Web.WebPages.Deployment.xml
+C:\project\Applaince1\Applaince\bin\System.Web.WebPages.Razor.xml
+C:\project\Applaince1\Applaince\bin\Newtonsoft.Json.xml
+C:\project\Applaince1\Applaince\bin\Antlr3.Runtime.pdb
+C:\project\Applaince1\Applaince\bin\EntityFramework.xml
+C:\project\Applaince1\Applaince\bin\EntityFramework.SqlServer.xml
+C:\project\Applaince1\Applaince\bin\Microsoft.AspNet.Identity.Core.xml
+C:\project\Applaince1\Applaince\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\project\Applaince1\Applaince\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\project\Applaince1\Applaince\bin\Microsoft.Owin.xml
+C:\project\Applaince1\Applaince\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\project\Applaince1\Applaince\bin\Microsoft.Owin.Security.xml
+C:\project\Applaince1\Applaince\bin\Microsoft.Owin.Security.Facebook.xml
+C:\project\Applaince1\Applaince\bin\Microsoft.Owin.Security.Cookies.xml
+C:\project\Applaince1\Applaince\bin\Microsoft.Owin.Security.OAuth.xml
+C:\project\Applaince1\Applaince\bin\Microsoft.Owin.Security.Google.xml
+C:\project\Applaince1\Applaince\bin\Microsoft.Owin.Security.Twitter.xml
+C:\project\Applaince1\Applaince\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\project\Applaince1\Applaince\obj\Debug\Applaince.csprojResolveAssemblyReference.cache
+C:\project\Applaince1\Applaince\obj\Debug\Applaince.dll
+C:\project\Applaince1\Applaince\obj\Debug\Applaince.pdb

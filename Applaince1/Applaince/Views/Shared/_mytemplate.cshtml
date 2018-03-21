@@ -1,0 +1,115 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+
+    <link href="@Url.Content("~/Content/mytemplate/")css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="@Url.Content("~/Content/mytemplate/")js/jquery-1.11.0.min.js"></script>
+    <!-- Custom Theme files -->
+    <link href="@Url.Content("~/Content/mytemplate/")css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <!-- Custom Theme files -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="Appliance Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template,
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+    <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+    <!--Google Fonts-->
+    <link href='@Url.Content("~/Content/mytemplate/")//fonts.googleapis.com/css?family=Aladin' rel='stylesheet' type='text/css'>
+    <link href='@Url.Content("~/Content/mytemplate/")//fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+    <!--google fonts-->
+    <!-- start-smoth-scrolling -->
+    <script type="text/javascript" src="@Url.Content("~/Content/mytemplate/")js/move-top.js"></script>
+    <script type="text/javascript" src="@Url.Content("~/Content/mytemplate/")js/easing.js"></script>
+    <script type="text/javascript">
+        jQuery(document).ready(function ($) {
+            $(".scroll").click(function (event) {
+                event.preventDefault();
+                $('html,body').animate({ scrollTop: $(this.hash).offset().top }, 1000);
+            });
+        });
+    </script>
+    <!-- //end-smoth-scrolling -->
+    <!-- animated-css -->
+    <link href="@Url.Content("~/Content/mytemplate/")css/animate.css" rel="stylesheet" type="text/css" media="all">
+    <script src="@Url.Content("~/Content/mytemplate/")js/wow.min.js"></script>
+    <script>
+        new WOW().init();
+    </script>
+
+
+</head>
+<body>
+    <div class="banner" id="banner" >
+        <div class="container">
+            <div class="banner-main">
+                <div class="logo wow bounceInLeft" data-wow-delay="0.1s">
+                    <h1><a href="index.html">Excellence Eduaction Analytics(EEA)</a></h1>
+                </div>
+                <div class="top-nav-w3layouts">
+                    <div class="menu">
+                        <a href="#" id="m_nav_menu" class="navicon"></a>
+                        <div class="toggle">
+                            <ul id="m_nav_list" class="toggle-menu">
+                                <li class="m_nav_item"><a href="#banner" class="navicon1 scroll"> Home</a></li>
+                                <li class="m_nav_item"><a href="#about" class="navicon1 scroll"> About</a></li>
+                                <li class="m_nav_item"><a href="#services" class="navicon1 scroll"> Services</a></li>
+                                <li class="m_nav_item"><a href="#gallery" class="navicon1 scroll"> Gallery</a></li>
+                                <li class="m_nav_item"><a href="#contact" class="navicon1 scroll"> Contact</a></li>
+                                <li class="m_nav_item"><a href="#row" class="navicon1 scroll"> OurTeam</a></li>
+
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- menu-js -->
+                    <script>
+                        $('.navicon').on('click', function (e) {
+                            e.preventDefault();
+                            $(this).toggleClass('navicon--active');
+                            $('.toggle').toggleClass('toggle--active');
+                        });
+
+                    </script>
+                    <script>
+                        $('.navicon1').on('click', function (e) {
+                            e.preventDefault();
+                            $('.toggle').toggleClass('toggle--active');
+                            $('.navicon').toggleClass('navicon--active');
+                        });
+                    </script>
+                    <!-- //menu-js -->
+                </div>
+                <div class="clearfix"> </div>
+            </div>
+        </div>
+    </div>
+    <div>
+        @RenderBody()
+    </div>
+    <div class="copy-right">
+        <div class="container">
+            <div class="copy-rights-main wow zoomIn" data-wow-delay="0.1s">
+                <p>© 2018 Excellence Eduaction Analytics.|<a href="@Url.Content("~/Content/mytemplate/")http://Leemutech.com/" target="_blank">Powered By LeemuTech</a> </p>
+            </div>
+        </div>
+        <script type="text/javascript">
+            $(document).ready(function () {
+                /*
+                var defaults = {
+                    containerID: 'toTop', // fading element id
+                    containerHoverID: 'toTopHover', // fading element hover id
+                    scrollSpeed: 1200,
+                    easingType: 'linear'
+                };
+                */
+
+                $().UItoTop({ easingType: 'easeOutQuart' });
+
+            });
+        </script>
+        <a href="#" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
+    </div> 
+</body>
+</html>
